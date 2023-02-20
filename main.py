@@ -53,3 +53,4 @@ while True:
     # plt.subplot(122), plt.imshow(reference_image, cmap="gray")
     # plt.title("Reference Image"), plt.xticks([]), plt.yticks([])
     # plt.show()
+    # Показывать данные
