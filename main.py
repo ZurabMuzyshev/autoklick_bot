@@ -40,12 +40,10 @@ while True:
         # pyautogui.click()
 
         # Draw a rectangle around the found image
-        # Рисуем прямоугольник вокруг найденного изображения
         # bottom_right = (top_left[0] + reference_image.shape[1], top_left[1] + reference_image.shape[0])
         # cv2.rectangle(screen, top_left, bottom_right, (0, 0, 355), 2)
 
         # Show the screen with the rectangle
-        # Показываем экран с прямоугольником
         # cv2.imshow("Screen", screen)
     print("Конец итерации - %s секунд -" % (time() - start_time))
 
