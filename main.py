@@ -48,9 +48,9 @@ while True:
     print("Конец итерации - %s секунд -" % (time() - start_time))
 
     # Display the screen and reference image
+    # Показ места где делается скриншот
     # plt.subplot(121), plt.imshow(screen_gray, cmap="gray")
     # plt.title("Screen"), plt.xticks([]), plt.yticks([])
     # plt.subplot(122), plt.imshow(reference_image, cmap="gray")
     # plt.title("Reference Image"), plt.xticks([]), plt.yticks([])
     # plt.show()
-    
