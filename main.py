@@ -53,5 +53,9 @@ while True:
     # plt.subplot(122), plt.imshow(reference_image, cmap="gray")
     # plt.title("Reference Image"), plt.xticks([]), plt.yticks([])
     # plt.show()
+<<<<<<< HEAD
 
 # merge main
+=======
+    
+>>>>>>> bc38d7ed168af4d9a24caa832ea53bb168eae0c0
